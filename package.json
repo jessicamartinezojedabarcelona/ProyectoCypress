@@ -1,0 +1,25 @@
+{
+  "name": "proyectocypress",
+  "version": "1.0.0",
+  "description": "Pruebas automaticas de la web de venta de ropa. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "web",
+    "de",
+    "venta",
+    "virtual",
+    "de",
+    "ropa"
+  ],
+  "author": "Jessica Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.0",
+    "git": "^0.1.5"
+  }
+}
